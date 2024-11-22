@@ -1,0 +1,7 @@
+id=Diginah.HomeDeviceChargingLimit
+name=Diginah Home Device Charging Limit
+version=1
+versionCode=1
+author=Diginah
+description=Limit charging level to very low for Pixel 4
+updateJson=https://raw.githubusercontent.com/diginatu/home-device-charging-limit/master/module.json
